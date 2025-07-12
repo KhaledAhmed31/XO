@@ -1,0 +1,2 @@
+C:/Users/Khaled Ahmed/VS code projects/xo_game/android/app/.cxx/RelWithDebInfo/1e4w613x/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Khaled Ahmed/VS code projects/xo_game/android/app/.cxx/RelWithDebInfo/1e4w613x/arm64-v8a/CMakeFiles/rebuild_cache.dir
